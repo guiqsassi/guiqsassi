@@ -10,6 +10,6 @@
   
   
 
-  ![Snake animation](https://github.com/guiqsassi/guiqsassi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guiqsassi/guiqsassi/blob/output/github-contribution-grid-snake.svg)
     </div>
   <h1 align="center"> Muito obrigado por visitar meu perfil!! </h1>
