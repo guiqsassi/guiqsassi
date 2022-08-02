@@ -12,4 +12,4 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     </div>
-  <h1 align="center"> Muito obrigado por visitar meu perfil!! </h1>
+  <h1 textalign="center"> Muito obrigado por visitar meu perfil!! </h1>
