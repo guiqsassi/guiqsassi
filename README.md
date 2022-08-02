@@ -1,5 +1,5 @@
 <h1 align="center"> Bem vindo(a) ao meu perfil!</h1> 
-<a style="text-align: center;" Olá!! meu nome é Guilherme e atualmente eu estou estudando programação no Senai, tenho uma grande vontade de estudar essa área da técnologia, pois foi nela em que me encontrei. Sonho em um dia poder trabalhar com programação para assim poder viver de um emprego que me faça muito feliz :)
+<a style="text-align: center;"> Olá!! meu nome é Guilherme e atualmente eu estou estudando programação no Senai, tenho uma grande vontade de estudar essa área da técnologia, pois foi nela em que me encontrei. Sonho em um dia poder trabalhar com programação para assim poder viver de um emprego que me faça muito feliz :)
 </a>
 <div align="center">
   <a href="https://github.com/rafaballerini">
