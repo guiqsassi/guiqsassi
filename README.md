@@ -3,7 +3,7 @@
 </a>
 <div align="center">
   <a href="https://github.com/guiqsassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiqsassi&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiqsassi&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiqsassi&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <h1 align="center"> Muito obrigado por visitar meu perfil!! </h1>
