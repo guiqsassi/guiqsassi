@@ -58,6 +58,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guiqsassi/guiqsassi/output/snake.svg" alt="Snake animation" />
 
 ###
