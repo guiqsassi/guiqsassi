@@ -1,8 +1,8 @@
 ## <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Olá, sou o Guilherme!
 
 <h5>🔍 Onde me encontrar: </h5>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/guiqsassi)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/guiqsassi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiqsassi)](https://www.linkedin.com/in/guiqsassi)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/guiqsassi)](https://github.com/guiqsassi)
 <img align="right"  width="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>  <p>
 
 
